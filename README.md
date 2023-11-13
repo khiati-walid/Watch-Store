@@ -60,7 +60,7 @@ Organized product categories for user-friendly browsing.
 
 ## Installation
 
-1. Clone: `git clone https://github.com/your-username/watch-store.git`
+1. Clone: `git clone https://github.com/khiati-walid/Watch-Store.git`
 2. Navigate: `cd watch-store`
 3. Install: `npm install`
 
